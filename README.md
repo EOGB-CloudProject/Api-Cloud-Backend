@@ -32,7 +32,7 @@ Para replicar este despliegue, sigue estos pasos:
 
 3\. \*\*ECS\*\*: Crear el clúster en Fargate y definir la tarea apuntando a la imagen de ECR.
 
-![Descripción de la imagen](C:\Users\User\Documents\Proyecto AWS\Testigo IP Publica.jpg)
+![Testigo IP Pública](Testigo%20IP%20Publica.jpg)
 
 \## Endpoints
 
