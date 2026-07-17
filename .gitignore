@@ -1,0 +1,18 @@
+# --- Credenciales de AWS ---
+.aws/
+.env
+aws_access_keys.csv
+
+# --- Entornos Virtuales ---
+venv/
+env/
+.venv/
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+
+# --- Sistema Operativo ---
+.DS_Store
+Thumbs.db
